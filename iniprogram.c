@@ -1,8 +1,9 @@
 //inicomment, iniprogram bisa jalan loh
-#include <iostream>
+#include <stdio.h>
 
 int main()
 {
-  std::cout << "Hello World!";
-  std::cout << "initambahlinelagi";
+  puts("Hello World!");
+  puts("initambahlinelagi");
+  return 0;
 }
