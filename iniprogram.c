@@ -3,7 +3,7 @@
 
 int main()
 {
-  puts("Hello World!");
+  puts("Hello World!\n");
   puts("initambahlinelagi");
   return 0;
 }

@@ -3,6 +3,7 @@
 
 int main()
 {
-	puts("TRUI, juara! juara! juara!");
+	puts("TRUI, juara! juara! juara!\n");
+	puts("iyaiyalah, masa iyaiyadong")
 	return 0;
 } 
