@@ -4,6 +4,7 @@
 int main()
 {
   puts("Hello World!\n");
-  puts("initambahlinelagi");
+  puts("initambahlinelagi\n");
+  puts("initambahlineterakhir");
   return 0;
 }
